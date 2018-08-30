@@ -56,3 +56,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Secret staff
+arxivFeed/client_secret.json
+arxivFeed/credentials.json
+\.DS_Store
+
+# Emacs auto generate
+*~
+*#
+
+# output file
+arxivFeed/send.txt
